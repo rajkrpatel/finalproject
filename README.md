@@ -52,7 +52,7 @@ ________________________________________________________________________
 
 (4) An endpoint for removing a specific ID from the queue. This endpoint should accept a single parameter, the ID to remove. 
     
-    http://localhost:8080/Randon-Project/works/remove?id=
+    example : http://localhost:8080/Randon-Project/works/remove?id=123
 
 (5) An endpoint to get the position of a specific ID in the queue. This endpoint should accept one parameter, the ID to get the position of. It should return
     the position of the ID in the queue indexed from 0.
