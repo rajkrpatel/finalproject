@@ -6,11 +6,17 @@ Name of the project given by me is Randon-Project.
 Tools/plugin used
 _____________________________
 Eclipse neon
+
 JDK 1.8
+
 Jersey 1.9
+
 JUnit 4.12
+
 Maven Plugin
+
 Tomcat 8.5 Server
+
 
 Steps to import the project into your workspace.
 1) Download the zip from https://github.com/rajkrpatel/finalproject and extract it.
