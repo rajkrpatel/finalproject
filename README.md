@@ -68,15 +68,19 @@ ________________________________________________________________________
 Funcationality of each class present in the project
 __________________________________________________________
 1) src - com.aspect.main.PriorityQueueImpl.java
+
    This class provides the core implementation of priorityqueue logic.
 
 2) src - com.aspect.main.Work.java
-   This is the pojo class, which holds workditem objects
+
+   This is the pojo class, which holds workitem objects
 
 3) src - com.aspect.webservices.EndPointServices.java
+
    This class provides the implementation of restful services for the endpoints url.
 
 4) test - com.aspect.main.PriorityQueueImplTest.java
+
    This is the JUnit class for testing the functionality of PriorityQueueImpl.java class
    
 
