@@ -25,11 +25,15 @@ Steps to import the project into your workspace.
 
 Steps to run the Priority queue web service in your environment, it can be done in 2 ways
 1) Placing war file in the tomcat, below are the steps
-    a) Place Randon-Project.war file in tomcat webapp folder and restart tomcat 
+
+    a) Copy Randon-Project.war file from Randon-Project/target/  and place Randon-Project.war file in tomcat webapp folder and restart          tomcat 
+    
     b) Try accessing the Endpoints url from the browser
 
 2) Runnig your project in eclipse using run on server option, below are the steps.
+
     a) Right click on Randon-Project folder in eclipse --> run as --> run server
+    
     b) Eclipse browser will open, there we have to enter the endpoint urls.
     
 Endpoints url
