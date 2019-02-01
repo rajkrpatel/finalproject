@@ -34,6 +34,7 @@ Steps to run the Priority queue web service in your environment, it can be done 
     
 Endpoints url
 ________________________________________________________________________
+#TIME FORMAT IS YYYY-MM-DDThh:mm:ss (1970-01-01T00:00:00)
 
 (1) An endpoint for adding a ID to queue (enqueue). This endpoint should accept two parameters, the ID to enqueue and the time at which the ID
     was added to the queue.
