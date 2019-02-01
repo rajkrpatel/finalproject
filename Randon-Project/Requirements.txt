@@ -1,0 +1,9 @@
+JDK 1.8
+
+Jersey 1.9
+
+JUnit 4.12
+
+Maven Plugin
+
+Tomcat Server
